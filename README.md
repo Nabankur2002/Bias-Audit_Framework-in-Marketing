@@ -3,10 +3,10 @@ This project focuses on detecting bias in marketing and advertisement content us
 
 Features
 
-*Detects bias in marketing text
-*Performs text preprocessing and cleaning
-*Applies machine learning models for classification
-*Helps in analyzing fairness in content
+* Detects bias in marketing text
+* Performs text preprocessing and cleaning
+* Applies machine learning models for classification
+* Helps in analyzing fairness in content
 How It Works
 
 1) Input marketing text data
