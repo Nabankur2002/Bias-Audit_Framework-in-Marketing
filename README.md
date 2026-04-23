@@ -7,6 +7,7 @@ Features
 * Performs text preprocessing and cleaning
 * Applies machine learning models for classification
 * Helps in analyzing fairness in content
+
 How It Works
 
 1) Input marketing text data
