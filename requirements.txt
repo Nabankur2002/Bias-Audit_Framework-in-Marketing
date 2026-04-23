@@ -1,0 +1,5 @@
+streamlit>=1.40.0
+vaderSentiment==3.3.2
+plotly==5.18.0
+pillow>=11.0.0
+rapidfuzz>=3.0.0
